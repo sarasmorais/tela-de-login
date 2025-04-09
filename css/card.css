@@ -62,7 +62,7 @@ div.form-group{
 .forget-password{
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 5px;
     margin-top: 55px;
     margin-left: 40px;
     font-size: 12px;   

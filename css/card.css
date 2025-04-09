@@ -59,7 +59,7 @@ div.form-group{
     background-color: #236d57;
     cursor:pointer;
 }
-.forgot-password{
+.forget-password{
     display: flex;
     flex-direction: column;
     gap: 1px;
@@ -68,13 +68,13 @@ div.form-group{
     font-size: 12px;   
 }
 
-.forgot-password a {
+.forget-password a {
   color: #259771; 
   text-decoration: none; 
   font-weight: bold;
   }
 
-.forgot-password a:hover {
+.forget-password a:hover {
   color: #259771; 
   text-decoration:underline;
   

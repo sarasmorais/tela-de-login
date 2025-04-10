@@ -160,7 +160,7 @@ button:active {
     font-size: 0.85rem;
 }
 
-.social-login{
+.social-btns{
     display: flex;
     justify-content: center;
     gap: 1rem;

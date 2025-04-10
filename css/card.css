@@ -139,6 +139,7 @@ button:hover{
 button:active {
     transform: translateY(0);
 }
+
 .divider{
     display: flex;
     align-items: center;
@@ -146,7 +147,7 @@ button:active {
 }
 
 .divider::before,
-.diviser::after{
+.divider::after{
     content: '';
     flex: 1;
     height: 1px;

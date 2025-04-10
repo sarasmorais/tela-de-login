@@ -81,7 +81,7 @@ input::placeholder {
 }
 .forget-password a {
     color: var(--text-secundary);
-    font-size: 0.085rem;
+    font-size: 0.85rem;
     text-decoration: none;
     transition: var(--transition);
 }

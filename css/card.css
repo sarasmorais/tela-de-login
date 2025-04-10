@@ -167,6 +167,8 @@ button:active {
 }
 
 .social-btn{
+    color: var(--primary-color);
+    text-decoration: none;
     display: flex;
     align-items: center;
     justify-content: center;

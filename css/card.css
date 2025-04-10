@@ -74,3 +74,19 @@ input::placeholder {
     color: var(--text-secundary);
     opacity: 0.7;
 }
+
+.forget-password {
+    text-align: right;
+    margin-top: 0.5rem;
+}
+.forget-password a {
+    color: var(--text-secundary);
+    font-size: 0.085rem;
+    text-decoration: none;
+    transition: var(--transition);
+}
+
+.forget-password a:hover{
+    color: var(--primary-color);
+}
+

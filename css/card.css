@@ -159,6 +159,12 @@ button:active {
     color: var(--text-secundary);
     font-size: 0.85rem;
 }
+.social-login{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    margin-bottom: 1.5 rem;
+}
 
 .social-btns{
     display: flex;
